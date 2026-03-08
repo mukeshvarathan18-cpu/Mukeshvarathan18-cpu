@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mukesh Varathan...
 
-<!--
-**mukeshvarathan18-cpu/Mukeshvarathan18-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Microbiology
+I am currently learning bioinformatics tools to complement my wet lab experience in molecular biology.
 
-Here are some ideas to get you started:
+## Wet Lab Experience
+- DNA extraction
+- Plasmid isolation
+- PCR and gene amplification
+- Bacterial culture techniques
+- Antibiotic resistance analysis
+- Clinical samples handling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bioinformatics Skills (Learning)
+- Single-cell RNA sequencing analysis (Seurat)
+- R programming
+- Python basics
+- NGS data analysis
+- Linux basics
+
+## Research Interests
+- Antimicrobial resistance
+- Microbial genomics
+- Single-cell transcriptomics
+- Clinical research
+- Computational biology
+
+## Currently Learning
+- scRNA-seq analysis pipelines
+- Bioinformatics tools for genomics
+- NGS
