@@ -1,6 +1,6 @@
 # Hi, I'm Mukesh Varathan...
 
-MSc student in Microbiology
+MSc student in Microbiology,
 I am currently learning bioinformatics tools to complement my wet lab experience in molecular biology.
 
 ## Wet Lab Experience
